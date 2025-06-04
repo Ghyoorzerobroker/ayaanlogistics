@@ -91,3 +91,5 @@ getSidebarLink.forEach((item) => {
     item.classList.add("active");
   }
 });
+
+// sidebar js
